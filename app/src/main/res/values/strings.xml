@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LiveData-RecyclerView</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add Post</string>
+    <string name="search">Search</string>
+    <string name="add_title">Add Title For heading</string>
+    <string name="add_content">Enter content</string>
+
+    <string name="search_message_dialog">Please enter what if you search</string>
+    <string name="add_message_dialog">Please enter what if you show</string>
+</resources>
